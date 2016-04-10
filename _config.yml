@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Old Days vs the Internet
+tagline:          'battle the past to win the future'
+description:      ''
+url:              http://avastmick.io
+baseurl:          /
+
+author:
+  name:           'Avastmick'
+  url:            https://twitter.com/avastmick
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/avastmick/avastmick-site
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
