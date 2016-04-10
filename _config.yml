@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Old Days vs the Internet
 tagline:          'battle the past to win the future'
 description:      ''
-url:              http://avastmick.io
+url:              http://avastmick.io/blog
 baseurl:          /
 
 author:
-  name:           'Avastmick'
+  name:           'avastmick'
   url:            https://twitter.com/avastmick
 
 paginate:         5
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/avastmick/avastmick-site
+  repo:           https://github.com/avastmick/avastmick-blog
 
 # Gems
 gems:
